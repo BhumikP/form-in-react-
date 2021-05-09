@@ -1,3 +1,8 @@
+-About React forms
+-Form with formik ,yupp and react-hook-form
+-React Hook Form with typescipt 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
